@@ -1,0 +1,30 @@
+/**
+ * This is an auto-generated code by Monaca JS/CSS Components.
+ * Please do not edit by hand.
+ */
+
+/*** <GENERATED> ***/
+@font-face{
+
+    font-family: 'Mainstay';
+    src: url(../font/Mainstay.ttf);
+}
+@font-face{
+
+    font-family: 'Killgo';
+    src: url(../font/KillGo.ttf);
+}
+
+a {
+    text-decoration:none; 
+}
+
+ul {
+  list-style: none;
+}
+
+body{
+
+    user-drag: none;
+    user-select: none;
+}

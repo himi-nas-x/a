@@ -1,0 +1,58 @@
+#addanki{
+
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: azure;
+    z-index: 2;
+
+}
+#anki{
+
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: greenyellow;
+    z-index: 1;
+
+}
+#adddiv{
+
+    width: 100%;
+
+}
+.addp{
+
+    display: flex;
+    border-bottom: solid azure;
+    /*border-radius: 20px;*/
+    height: auto;
+    background-color: skyblue;
+
+}
+.qp{
+
+    width: 50%;
+    text-align: center;
+    overflow-wrap: break-word;
+    color: blue;
+    font-weight: bold;
+    font-size: 120%;
+
+}
+.ap{
+
+    border-left: solid azure;
+    width: 50%;
+    text-align: center;
+    overflow-wrap: break-word;
+    color: red;
+    font-weight: bold;
+    font-size: 120%;
+
+}
+

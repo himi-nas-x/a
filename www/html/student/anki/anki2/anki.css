@@ -1,0 +1,87 @@
+#adddiv{
+    position: fixed;;
+    z-index: 2;
+    background-color: skyblue;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+#mainanki{
+    position: fixed;
+    z-index: 1;
+    background-color: skyblue;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+.inputadd{
+    
+    margin-left: 25%;
+}
+.inputok{
+
+    margin-left: 25%;
+
+}
+
+.start{
+
+    margin-left: 50%;
+
+}
+
+.divzone{
+
+    width: 100%;
+}
+.divdiv{
+
+    display: flex;
+    border: solid black;
+    height: auto;
+    background-color: gainsboro;
+
+}
+
+.qp{
+
+    width: 50%;
+    text-align: center;
+    overflow-wrap: break-word;
+    color: rgb(1, 207, 1);
+    font-weight: bold;
+    font-size: 120%;
+
+}
+
+.ap{
+
+    border-left: solid black;
+    width: 50%;
+    text-align: center;
+    overflow-wrap: break-word;
+    color: rgb(140, 140, 248);
+    font-weight: bold;
+    font-size: 120%;
+
+}
+
+
+inputrands{
+
+    display: inline-block;
+    transform: translate(-50% , -50%);
+    text-align: center;
+}
+
+div.inputrand{
+
+    display: flex;
+    font-weight: bold;
+    color: white;
+    margin-left: 25%;
+}
+
+

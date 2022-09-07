@@ -1,0 +1,101 @@
+#addanki{
+
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background: azure;
+    z-index: 2;
+
+}
+#anki{
+
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: greenyellow;
+    z-index: 1;
+
+}
+#adddiv{
+
+    width: 100%;
+
+}
+#settingdiv{
+    width: 100%;
+}
+.addp{
+
+    display: flex;
+    border-bottom: solid azure;
+    /*border-radius: 20px;*/
+    height: auto;
+    background-color: skyblue;
+
+}
+.qp{
+
+    width: 50%;
+    text-align: center;
+    overflow-wrap: break-word;
+    color: blue;
+    font-weight: bold;
+    font-size: 120%;
+
+}
+.ap{
+
+    border-left: solid azure;
+    width: 50%;
+    text-align: center;
+    overflow-wrap: break-word;
+    color: red;
+    font-weight: bold;
+    font-size: 120%;
+
+}
+
+
+/*
+.main{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 50%;
+    width: 100%;
+    background-color: skyblue;
+}
+#page{
+    position: fixed;
+    top: 90%;
+    left: 0px;
+    height: 10%;
+    width: 100%;
+    background-color: skyblue;
+}
+#qsans{
+    text-align: center;
+    margin-top:50%;
+}
+#prev{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    color: grey;
+    top: 50%;
+    left: 5%;
+}
+#next{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    color: grey;
+    top: 50%;
+    right: 5%;
+}
+.page{
+    border-radius: 100%;
+}
+*/
